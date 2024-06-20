@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Souvik Dey
-- 👀 I’m interested in Big Data Analytics
-- 🌱 I’m currently learning PySpark
+- 👀 I’m interested in Big Data Engineering
+- 🌱 I’m currently working on Apache PySpark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <a href="mailto:souvikdey9510@gmail.com">Send email</a>
 ## 1. GitHub Stats
